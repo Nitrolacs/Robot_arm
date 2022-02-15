@@ -7,6 +7,7 @@
 <div align="center">
 
 ![GitHub](https://img.shields.io/github/license/nitrolacs/Robot_arm?color=blue&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/nitrolacs/robot_arm?style=for-the-badge)
 
 </div>
 
